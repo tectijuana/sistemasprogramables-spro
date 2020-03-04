@@ -2,6 +2,8 @@
 sistemasprogramables-spro created by GitHub Classroom
 
 
+# Sensores de deformación: Galga extensiométrica
+
 
 | Nombre | Actividad | Notas |
 |-------------|----------------|--------------|
