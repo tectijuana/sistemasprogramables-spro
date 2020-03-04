@@ -2,7 +2,7 @@
 | Equipo | Sensor | Notas |
 |-------------|----------------|--------------|
 | sistemasprogramables-alpha        |       Temperatura         |              |
-| sistemasprogramables-brandnewworld         |       proximidad         |      1.4        |
+| sistemasprogramables-brandnewworld         |       proximidad         |      |
 | sistemasprogramables-erebus          |        Òpticos        |              |
 | sistemasprogramables-error-404      |         Cámara CMOS       |              | 
 | dsistemasprogramables-goodbunny|      Sensores de luz: fotodiodo, fotorresistencia, fototransistor          |              | 
