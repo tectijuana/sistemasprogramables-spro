@@ -30,9 +30,9 @@ Tabla en Markdown
 | Galgas extensiométricas de calidad: 	| La serie SGT de galgas extensiométricas de calidad de  transductor tiene rejillas paralelas dobles, para tensión de dobladura o  de eje   Aplicaciones de corte o torque   Aplicaciones de transductor personalizadas de curva doble      Las galgas extensiométricas pueden tener de 1 a 4 rejillas de  medición. Varias compensaciones de temperatura usando aluminio, acero o  materiales no compensados. 	|
 
 
-| Nombre | Actividad | Notas |
-|-------------|----------------|--------------|
-| a           |                |              | 
-| b           |                |              | 
-| c           |                |              | 
-| d           |                |              | 
+| Nombre                             | Actividad      | Notas |
+|------------------------------------|----------------|-------|
+| Solis Laredo Perez Gerardo Alberto | Insvestigacion |       |
+| Oceguera Fabela Daniel             | Insvestigacion |       |
+| Alvarez Yanez Jose Alonso          | Insvestigacion |       |
+| Gamboa Hernandez Jose              | Insvestigacion |       |
